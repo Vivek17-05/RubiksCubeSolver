@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#include "./GenericRubiksCube.h"
+#include "../Model//GenericRubiksCube.h"
 #include "DFSSolver.h"
 
 #ifndef RUBIKS_CUBE_SOLVER_IDDFSSOLVER_H
